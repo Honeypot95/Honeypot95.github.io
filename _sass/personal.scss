@@ -1,0 +1,37 @@
+html {
+
+}
+
+// body::after {
+//     content: url("/assets/logo-100.png");
+//     display: inline-grid;
+//     position: relative;
+//     width: 37px;
+//     top: 5px;
+// }
+
+body {
+    font-size: 19px;
+}
+
+time {
+    display: inline-block;
+    color: DimGray;
+    margin-right: 0.2em;
+}
+
+ul {
+    line-height: normal;
+}
+
+li {
+    list-style-type: none;
+}
+
+.post-title, .post-meta {
+    text-align: center;
+}
+
+.footer-col-wrapper {
+    text-align: center;
+}
