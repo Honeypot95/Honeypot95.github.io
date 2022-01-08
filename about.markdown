@@ -25,5 +25,6 @@ way to contribute.
 I like writing poetry, particularly using constrained writing techniques. You
 can check out some of that here as well.
 
-In principle I like sports, such as swimming, tennis and squash, but I am not
-very good at them. I hope to change this in the near future.
+In principle I like sports, such as swimming, tennis and squash, as well as
+dancing, but I am not very good at them. I hope to change this in the near
+future.
